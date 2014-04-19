@@ -1,0 +1,13 @@
+{
+  "name": "HaxeDx",
+  "url": "https://github.com/kidveno/HaxeDx",
+  "license": "MIT",
+  "tags": ["Game", "DirectX", "cs"],
+  "description": "Haxe engine for building DirectX apps",
+  "version": "0.1.0",
+  "releasenote": "Inital release",
+  "contributors": ["kidveno"],
+  "dependencies": {
+	"hxcs": ""
+  }
+}
