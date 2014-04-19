@@ -23,9 +23,9 @@ Requirements:
 Usage:
 ======
 
-* install using haxelib install haxedx
-* create a project using haxelib run haxedx create this will create a project in the current working directory with a Main.hx app.xml and hxproj
-* haxedx build app.xml winstore (currently only supports Windows Store target)
+* install using `haxelib install haxedx`
+* create a project using `haxelib run haxedx create` this will create a project in the current working directory with a Main.hx app.xml and hxproj
+* `haxedx build app.xml winstore` (currently only supports Windows Store target)
 This will create a Windows Store Project with the available 
 
 Current Capabilities:
